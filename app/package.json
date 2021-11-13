@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "monaco-editor": "^0.29.1",
+    "monaco-yaml": "2.5.1",
+    "vite": "^2.7.0-beta.5"
+  }
+}
